@@ -13,35 +13,35 @@ Here's an example of how to use the software.
 * Create an Original folder in the same folder as the crv-mp3 folder.
 * Copy your MP3 and M4A files to the Original folder, so it might look something like this:
 
-crv_mp3.py
+  crv_mp3.py
 
-Original
+  Original
 
-  Christmas
+    Christmas
   
-    02 God Rest Ye Merry Gentlemen.mp3
+      02 God Rest Ye Merry Gentlemen.mp3
   
-    02 All I Want for Christmas Is You (2005).mp3
+      02 All I Want for Christmas Is You (2005).mp3
     
-    18 Christmas In Hollis.mp3
+      18 Christmas In Hollis.mp3
     
-    02 Driving Home for Christmas.mp3
+      02 Driving Home for Christmas.mp3
     
-    1-01 Happy Christmas (War Is Over).m4a
+      1-01 Happy Christmas (War Is Over).m4a
     
-    1-02 Wonderful Christmastime 1.m4a
+      1-02 Wonderful Christmastime 1.m4a
     
-    01 Fairytale Of New York.mp3
+      01 Fairytale Of New York.mp3
     
-    10 2000 Miles.m4a
+      10 2000 Miles.m4a
     
-    08 Hazy shade of winter.mp3
+      08 Hazy shade of winter.mp3
   
-  Alanis Morissette
+    Alanis Morissette
   
-    Jagged Little Pill
+      Jagged Little Pill
     
-      04 Hand In My Pocket.m4a
+        04 Hand In My Pocket.m4a
 
 * Now, execute the script:
 

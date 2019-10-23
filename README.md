@@ -1,5 +1,5 @@
 # CRV-MP3
-The Honda CR-V media player circa 2009 is very picky about the MP3 formats it can play, and it can't play M4A files at all. This software transcodes MP3 and M4A files to an MP3 format suitable for playing on the MP3 player on a 2009 Honda CR-V. 
+The Honda CR-V media player circa 2009 is very picky about the MP3 formats it can play, and it can't play M4A files at all. This software transcodes MP3 and M4A files to an MP3 format suitable for use on the MP3 player on a 2009 Honda CR-V. It likley works with the MP3 players in other Honda cars of about the same age, but obviously I can't test it.
 
 To use the software, you'll need to install FFMPEG and LAME on your system. FFMEG is used to decode M4A files, and LAME is used to encode MP3 files (you might need to download the MP3 encoding engine for LAME).
 

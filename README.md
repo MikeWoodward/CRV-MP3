@@ -9,7 +9,7 @@ Here's an example of how to use the software.
 * Install FFMPEG and LAME (you may need to install the MP3 engine)
 * Check the crv-mp3 file and make sure the constants FFMPEG2 and LAME point to the correct folder on your system.
 * Create an Original folder in the same folder as the crv-mp3 folder.
-* Copy your MP3 and M4A files to the folder, so it might look something like this:
+* Copy your MP3 and M4A files to the Original folder, so it might look something like this:
 
 * Now, execute the script:
 

@@ -45,4 +45,66 @@ Here's an example of how to use the software.
 
 * Now, execute the script:
 
+    python crv-mp3.py
+
 * At the end of the process, you should see:
+
+       crv_mp3.py
+
+       Original
+
+          Christmas
+  
+             02 God Rest Ye Merry Gentlemen.mp3
+  
+             02 All I Want for Christmas Is You (2005).mp3
+    
+             18 Christmas In Hollis.mp3
+    
+             02 Driving Home for Christmas.mp3
+    
+             1-01 Happy Christmas (War Is Over).m4a
+    
+             1-02 Wonderful Christmastime 1.m4a
+    
+             01 Fairytale Of New York.mp3
+    
+             10 2000 Miles.m4a
+    
+             08 Hazy shade of winter.mp3
+  
+          Alanis Morissette
+  
+             Jagged Little Pill
+    
+                04 Hand In My Pocket.m4a
+                
+       Recoded
+       
+          Christmas
+  
+             02 God Rest Ye Merry Gentlemen.mp3
+  
+             02 All I Want for Christmas Is You (2005).mp3
+    
+             18 Christmas In Hollis.mp3
+    
+             02 Driving Home for Christmas.mp3
+    
+             1-01 Happy Christmas (War Is Over).mp3
+    
+             1-02 Wonderful Christmastime 1.mp3
+    
+             01 Fairytale Of New York.mp3
+    
+             10 2000 Miles.mp3
+    
+             08 Hazy shade of winter.mp3
+  
+          Alanis Morissette
+  
+             Jagged Little Pill
+    
+                04 Hand In My Pocket.mp3
+                
+* The MP3 files may look the same, but they might have been been transcoded to a different sampling rate, bit rate, or audio mode.

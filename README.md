@@ -17,11 +17,11 @@ Here's an example of how to use the software.
 
   Original
 
-    Christmas
+     Christmas
   
-      02 God Rest Ye Merry Gentlemen.mp3
+        02 God Rest Ye Merry Gentlemen.mp3
   
-      02 All I Want for Christmas Is You (2005).mp3
+        02 All I Want for Christmas Is You (2005).mp3
     
       18 Christmas In Hollis.mp3
     

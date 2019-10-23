@@ -6,4 +6,11 @@ To use the software, you'll need to install FFMPEG and LAME. The CRV-MP3 script 
 The software reads in MP3 and M4A files in the Original folder, transcodes them, and writes the transcoded files to a Recoded folder. FFMEG is used to decode M4A files, and LAME is used to encode MP3 files.
 
 Here's an example of how to use the software.
-* Install FFMPEG and LAME
+* Install FFMPEG and LAME (you may need to install the MP3 engine)
+* Check the crv-mp3 file and make sure the constants FFMPEG2 and LAME point to the correct folder on your system.
+* Create an Original folder in the same folder as the crv-mp3 folder.
+* Copy your MP3 and M4A files to the folder, so it might look something like this:
+
+* Now, execute the script:
+
+* At the end of the process, you should see:

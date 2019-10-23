@@ -10,8 +10,8 @@ The software reads in MP3 and M4A files in the Original folder, transcodes them,
 Here's an example of how to use the software.
 * Install FFMPEG and LAME (you may need to install the LAME MP3 engine).
 * Check the crv-mp3 file and make sure the constants FFMPEG2 and LAME point to the correct folder on your system (they are correctly set up for OSX).
-* Create an Original folder in the same folder as the crv-mp3 folder.
-* Copy your MP3 and M4A files to the Original folder, so it might look something like this:
+* Create an Original folder in the same folder as the crv-mp3.py file.
+* Copy your MP3 and M4A files to the Original folder. Here's an example of some albums on my machine:
 
        crv_mp3.py
 

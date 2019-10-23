@@ -13,15 +13,15 @@ Here's an example of how to use the software.
 * Create an Original folder in the same folder as the crv-mp3 folder.
 * Copy your MP3 and M4A files to the Original folder, so it might look something like this:
 
-  crv_mp3.py
+    crv_mp3.py
 
-  Original
+    Original
 
-     Christmas
+       Christmas
   
-        02 God Rest Ye Merry Gentlemen.mp3
+          02 God Rest Ye Merry Gentlemen.mp3
   
-        02 All I Want for Christmas Is You (2005).mp3
+          02 All I Want for Christmas Is You (2005).mp3
     
       18 Christmas In Hollis.mp3
     

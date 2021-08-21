@@ -1,7 +1,7 @@
 # CRV-MP3
 The Honda CR-V media player circa 2009 is very picky about the MP3 formats it can play, and it can't play M4A files at all. This software transcodes MP3 and M4A files to an MP3 format suitable for use on the MP3 player on a 2009 Honda CR-V. It likely works with the MP3 players in other Honda cars of about the same age, but obviously I can't test it.
 
-To use the software, you'll need to install FFMPEG and LAME on your system. FFMEG is used to decode M4A files, and LAME is used to encode MP3 files (you might need to download the MP3 encoding engine for LAME).
+To use the software, you'll need to install FFMPEG and LAME on your system. FFMEG is used to decode M4A files, and LAME is used to encode MP3 files (you might need to download the MP3 encoding engine for LAME). On OSX, the best way to install these packahes is using brew, so for example brew lame.
 
 The CRV-MP3 script is designed to work on OSX, so it points to usr folders that contain the FFMPEG and LAME executables. If you're using a Windows machine, you'll have to point to the appropriate folders on your system. 
 
@@ -9,7 +9,7 @@ The software reads in MP3 and M4A files in the Original folder, transcodes them,
 
 Here's an example of how to use the software.
 * Install FFMPEG and LAME (you may need to install the LAME MP3 engine).
-* Check the crv-mp3 file and make sure the constants FFMPEG2 and LAME point to the correct folder on your system (they are correctly set up for OSX).
+* Check the crv-mp3 file and make sure the constants FFMPEG2 and LAME point to the correct folder on your system (they're correctly set up for OSX).
 * Create an Original folder in the same folder as the crv-mp3.py file.
 * Copy your MP3 and M4A files to the Original folder. Here's an example of some albums on my machine:
 
